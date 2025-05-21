@@ -12,7 +12,7 @@ export const ThemeToggle = () => {
             setIsDarkMode(true);
         } else {
             localStorage.setItem("theme", "light");
-            setIsDarkMode(false);
+            setIsDarkMode(false)
         }
     }, []);
 
