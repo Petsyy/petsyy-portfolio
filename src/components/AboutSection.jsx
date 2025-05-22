@@ -34,7 +34,7 @@ export const AboutSection = () => {
                                 <Code className="h-6 w-6 text-primary" />
                             </div>
                             <div className="text-left">
-                                <h4 className="text-semibold text-lg"> Web Development</h4>
+                                <h4 className="font-semibold text-lg"> Web Development</h4>
                                 <p className="text-muted-foreground">
                                 I enjoy creating responsive and user-friendly websites that provide a seamless experience across devices.
                                 </p>
@@ -46,12 +46,24 @@ export const AboutSection = () => {
                             <div className="p-3 rounded-full bg-primary/10">
                                 <User className="h-6 w-6 text-primary" />
                             </div>
+                            <div className="text-left">
+                                <h4 className="font-semibold text-lg"> UI/UX Design</h4>
+                                <p className="text-muted-foreground"> 
+                                I have a keen eye for design and enjoy creating visually appealing and user-friendly interfaces that enhance the overall user experience.
+                                </p>
+                            </div>
                         </div>
                     </div>
                     <div className="gradient-border p-6 card-hover">
                         <div className="flex items-start gap-4">
                             <div className="p-3 rounded-full bg-primary/10">
                                 <Briefcase className="h-6 w-6 text-primary" />
+                            </div>
+                            <div className="text-left">
+                                <h4 className="font-semibold text-lg"> Project Management</h4>
+                                <p className="text-muted-foreground">
+                                I have experience in managing projects from inception to completion, ensuring that they are delivered on time and within budget.
+                                </p>
                             </div>
                         </div>
                     </div>
