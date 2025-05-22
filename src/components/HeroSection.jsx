@@ -14,7 +14,7 @@ export const HeroSection = () => {
                 </h1>
 
                 <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                    I’m highly motivated as a BSIT student with a strong passion for the field of Information Technology. Excellent communication and teamwork skills, with a proven ability to collaborate effectively in multidisciplinary settigs.
+                    Aspiring Web Developer passionate about building responsive, user-friendly websites and web applications. Eager to turn ideas into interactive digital experiences using modern technologies.
                 </p>
 
                 <div className="pt-4 opacity-0 animate-fade-in-delay-4">
